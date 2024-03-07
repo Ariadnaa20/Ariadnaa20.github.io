@@ -67,7 +67,7 @@ nav ul li a:hover {
 
 footer {
   width: 100%;
-  background-color: #2c103d; /* Tu color de fondo específico */
+  background-color: #211d25; /* Tu color de fondo específico */
   color: rgb(238, 226, 226); /* Color de texto que contraste con el fondo */
   text-align: center;
   padding: 10px 0; /* Espaciado interno superior e inferior */
@@ -75,7 +75,6 @@ footer {
   bottom: 0; /* Colocado en la parte inferior de la página */
   left: 0; /* Alineado a la izquierda de la página */
 }
-
 footer p {
   margin: 0; /* Elimina cualquier margen por defecto del párrafo */
 }
