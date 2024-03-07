@@ -64,3 +64,18 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #b878dd;
 }
+
+footer {
+  width: 100%;
+  background-color: #2c103d; /* Tu color de fondo específico */
+  color: rgb(238, 226, 226); /* Color de texto que contraste con el fondo */
+  text-align: center;
+  padding: 10px 0; /* Espaciado interno superior e inferior */
+  position: absolute; /* Posicionamiento absoluto */
+  bottom: 0; /* Colocado en la parte inferior de la página */
+  left: 0; /* Alineado a la izquierda de la página */
+}
+
+footer p {
+  margin: 0; /* Elimina cualquier margen por defecto del párrafo */
+}
